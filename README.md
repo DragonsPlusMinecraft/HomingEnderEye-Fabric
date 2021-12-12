@@ -1,9 +1,6 @@
-# Fabric Example Mod
+![Cover](ghassets/Github%20Social%20Preview.png)
 
-## Setup
+<h2 align="center">Useful Link</h2>
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+<p align="center"><a href="https://www.curseforge.com/minecraft/mc-mods/homing-ender-eye">CurseForge</a> | <a href="https://www.mcmod.cn/class/3872.html">MCMOD.CN</a></p>
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.

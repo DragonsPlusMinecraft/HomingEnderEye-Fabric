@@ -1,29 +1,27 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "homing_ender_eye",
   "version": "${version}",
 
   "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Oh Alex...The eye of ender did not disappear or break. It just went to the path homing.",
   "authors": [
-    "Me!"
+    "MarbleGateKeeper 白门守望者"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/homing-ender-eye",
+    "sources": "https://github.com/MarbleGateKeeper/HomingEnderEye-Fabric"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
-
+  "license": "WTFPL",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "love.marblegate.homingendereye.HomingEnderEye"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "homing_ender_eye.mixins.json"
   ],
 
   "depends": {
