@@ -3,7 +3,7 @@
   "id": "homing_ender_eye",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "Homing Ender Eye",
   "description": "Oh Alex...The eye of ender did not disappear or break. It just went to the path homing.",
   "authors": [
     "MarbleGateKeeper 白门守望者"
@@ -12,12 +12,15 @@
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/homing-ender-eye",
     "sources": "https://github.com/MarbleGateKeeper/HomingEnderEye-Fabric"
   },
-
+  "icon": "assets/homing_ender_eye/icon.png",
   "license": "WTFPL",
   "environment": "*",
   "entrypoints": {
     "main": [
       "love.marblegate.homingendereye.HomingEnderEye"
+    ],
+    "modmenu": [
+      "love.marblegate.homingendereye.misc.ModMenuIntegration"
     ]
   },
   "mixins": [
