@@ -2,5 +2,6 @@
   "text.autoconfig.homing_ender_eye.title": "回归之眼设置",
   "text.autoconfig.homing_ender_eye.option.INDIVIDUAL_MODE": "个人记录独立模式",
   "text.autoconfig.homing_ender_eye.option.SCANNING_RATE": "扫描频率",
-  "text.autoconfig.homing_ender_eye.option.SCANNING_RADIUS": "扫描范围"
+  "text.autoconfig.homing_ender_eye.option.SCANNING_RADIUS": "扫描范围",
+  "text.autoconfig.homing_ender_eye.option.WARPING_PROBABILITY": "传送概率"
 }
