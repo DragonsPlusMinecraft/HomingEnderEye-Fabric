@@ -10,7 +10,7 @@
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/homing-ender-eye",
-    "sources": "https://github.com/MarbleGateKeeper/HomingEnderEye-Fabric"
+    "sources": "https://github.com/DragonsPlusMinecraft/HomingEnderEye-Fabric"
   },
   "icon": "assets/homing_ender_eye/icon.png",
   "license": "WTFPL",
