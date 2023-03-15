@@ -1,4 +1,4 @@
-package love.marblegate.homingendereye.misc;
+package plus.dragons.homingendereye.misc;
 
 import org.jetbrains.annotations.Nullable;
 

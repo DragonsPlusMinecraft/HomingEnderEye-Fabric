@@ -1,8 +1,8 @@
-package love.marblegate.homingendereye.mixin;
+package plus.dragons.homingendereye.mixin;
 
-import love.marblegate.homingendereye.HomingEnderEye;
-import love.marblegate.homingendereye.misc.Configuration;
-import love.marblegate.homingendereye.misc.EnderEyeDestroyState;
+import plus.dragons.homingendereye.HomingEnderEye;
+import plus.dragons.homingendereye.misc.Configuration;
+import plus.dragons.homingendereye.misc.EnderEyeDestroyState;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EyeOfEnderEntity;
 import net.minecraft.entity.player.PlayerEntity;

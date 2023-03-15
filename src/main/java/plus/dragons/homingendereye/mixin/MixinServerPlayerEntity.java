@@ -1,8 +1,8 @@
-package love.marblegate.homingendereye.mixin;
+package plus.dragons.homingendereye.mixin;
 
 import com.mojang.authlib.GameProfile;
-import love.marblegate.homingendereye.misc.Configuration;
-import love.marblegate.homingendereye.misc.EnderEyeDestroyState;
+import plus.dragons.homingendereye.misc.Configuration;
+import plus.dragons.homingendereye.misc.EnderEyeDestroyState;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
 import net.minecraft.block.EndPortalFrameBlock;

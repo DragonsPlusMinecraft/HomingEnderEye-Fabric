@@ -17,10 +17,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "love.marblegate.homingendereye.HomingEnderEye"
+      "plus.dragons.homingendereye.HomingEnderEye"
     ],
     "modmenu": [
-      "love.marblegate.homingendereye.misc.ModMenuIntegration"
+      "plus.dragons.homingendereye.misc.ModMenuIntegration"
     ]
   },
   "mixins": [

@@ -1,7 +1,7 @@
-package love.marblegate.homingendereye;
+package plus.dragons.homingendereye;
 
-import love.marblegate.homingendereye.misc.Configuration;
-import love.marblegate.homingendereye.misc.EyeThrowCache;
+import plus.dragons.homingendereye.misc.Configuration;
+import plus.dragons.homingendereye.misc.EyeThrowCache;
 import me.shedaniel.autoconfig.AutoConfig;
 import me.shedaniel.autoconfig.serializer.JanksonConfigSerializer;
 import net.fabricmc.api.ModInitializer;

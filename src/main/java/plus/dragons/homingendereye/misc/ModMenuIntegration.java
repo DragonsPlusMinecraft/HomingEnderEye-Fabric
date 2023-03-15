@@ -1,4 +1,4 @@
-package love.marblegate.homingendereye.misc;
+package plus.dragons.homingendereye.misc;
 
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;

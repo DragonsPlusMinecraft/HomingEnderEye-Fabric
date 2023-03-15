@@ -1,4 +1,4 @@
-package love.marblegate.homingendereye.misc;
+package plus.dragons.homingendereye.misc;
 
 import com.google.common.reflect.TypeToken;
 import com.google.gson.Gson;

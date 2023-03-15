@@ -1,4 +1,4 @@
-package love.marblegate.homingendereye.misc;
+package plus.dragons.homingendereye.misc;
 
 import me.shedaniel.autoconfig.AutoConfig;
 import me.shedaniel.autoconfig.ConfigData;
